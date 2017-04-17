@@ -37,5 +37,6 @@ Blog Wordpress: http://anagauna.wordpress.com
 preferences: Web Applications, Big Data, Data Analytics, Data Science, 
              Microsoft Windows Server, Microsoft SQL Server, IT Projects,
              Information Technology, Business Management, Business Intelligence, 
-             PMI, ITIL, IT Consultant, etc
+             CyberSecurity, Cyberlaw, Privacy, Cloud Computing, Microsoft Azure,
+             Amazon Web Server (AWS), SQL, PMI, ITIL, IT Consultant, etc
 ---
