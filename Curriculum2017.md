@@ -27,11 +27,7 @@ Medium:     medium.com/@anagauna
 Google+:    https://plus.google.com/+AnaGauna2109/posts
 Twitter:    @amgauna @AnaGaunaTech
 
-Domain(1):  amgauna.eti.br
-Domain(2):  anagauna.eti.br
-Domain(3):  mulhertech.com.br
-Domain(4):  certification.com.br
-
+WebSite:          http://www.amgauna.eti.br
 Blog Blogger:     http://anagaunatech.blogspot.com.br
 Blog Wordpress:   http://anagauna.wordpress.com
 Blog MulherTech:  http://mulhertech.blogspot.com
