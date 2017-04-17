@@ -35,6 +35,6 @@ Blog MulherTech:  http://mulhertech.blogspot.com
 Preferences:  Web Applications, Big Data, Data Analytics, Data Science,  Computer Science, 
               Microsoft Windows Server, Microsoft SQL Server, IT Projects Management, PMI, ITIL, 
               IT Consultant, Information Technology, Business Management, Business Intelligence,
-              Security, Cloud Computing, Microsoft Azure, Amazon Web Server (AWS), SQL Server, etc
+              Security, Cloud Computing, Microsoft Azure, Amazon Web Server (AWS), Management, etc
              
 ---
