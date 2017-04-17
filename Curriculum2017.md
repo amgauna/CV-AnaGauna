@@ -13,7 +13,7 @@ Profession:  Senior Business Systems Analyst / MCSE Windows Server / Cisco CCNA2
 Phone:      +55 (21) 2538-0399 
 WhatsApp:   +55 (21) 97937-1230
 
-Email:       amgauna@gmail.com
+Email:      amgauna@gmail.com
 Skype:      amgauna@hotmail.com
 Yahoo:      amgauna@geocities.com
 
@@ -32,12 +32,12 @@ Domain(2):  anagauna.eti.br
 Domain(3):  mulhertech.com.br
 Domain(4):  certification.com.br
 
-Blog Blogger:   http://anagaunatech.blogspot.com.br
-Blog Wordpress: http://anagauna.wordpress.com
+Blog Blogger:    http://anagaunatech.blogspot.com.br
+Blog Wordpress:  http://anagauna.wordpress.com
 
-Preferences: Web Applications, Big Data, Data Analytics, Data Science,  Computer Science, 
-             Microsoft Windows Server, Microsoft SQL Server, IT Projects Management, PMI, ITIL, 
-             IT Consultant, Information Technology, Business Management, Business Intelligence,
-             Security, Cloud Computing, Microsoft Azure, Amazon Web Server (AWS), SQL Server, etc
+Preferences:  Web Applications, Big Data, Data Analytics, Data Science,  Computer Science, 
+              Microsoft Windows Server, Microsoft SQL Server, IT Projects Management, PMI, ITIL, 
+              IT Consultant, Information Technology, Business Management, Business Intelligence,
+              Security, Cloud Computing, Microsoft Azure, Amazon Web Server (AWS), SQL Server, etc
              
 ---
