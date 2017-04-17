@@ -26,17 +26,17 @@ medium:     medium.com/@anagauna
 google+:    https://plus.google.com/+AnaGauna2109/posts
 Twitter:    @amgauna @AnaGaunaTech
 
-domain(1):  amgauna.eti.br
-domain(2):  anagauna.eti.br
-domain(3):  mulhertech.com.br
-domain(4):  certification.com.br
+Domain(1):  amgauna.eti.br
+Domain(2):  anagauna.eti.br
+Domain(3):  mulhertech.com.br
+Domain(4):  certification.com.br
 
 Blog Blogger:   http://anagaunatech.blogspot.com.br
 Blog Wordpress: http://anagauna.wordpress.com
 
-preferences: Web Applications, Big Data, Data Analytics, Data Science, 
-             Microsoft Windows Server, Microsoft SQL Server, IT Projects,
-             Information Technology, Business Management, Business Intelligence, 
-             CyberSecurity, Cyberlaw, Privacy, Cloud Computing, Microsoft Azure,
-             Amazon Web Server (AWS), SQL, PMI, ITIL, IT Consultant, etc
+Preferences: Web Applications, Big Data, Data Analytics, Data Science,  Computer Science, 
+             Microsoft Windows Server, Microsoft SQL Server, IT Projects Management, PMI, ITIL, 
+             IT Consultant, Information Technology, Business Management, Business Intelligence,
+             Security, Cloud Computing, Microsoft Azure, Amazon Web Server (AWS), SQL Server, etc
+             
 ---
