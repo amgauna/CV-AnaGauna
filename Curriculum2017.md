@@ -32,8 +32,9 @@ Domain(2):  anagauna.eti.br
 Domain(3):  mulhertech.com.br
 Domain(4):  certification.com.br
 
-Blog Blogger:    http://anagaunatech.blogspot.com.br
-Blog Wordpress:  http://anagauna.wordpress.com
+Blog Blogger:     http://anagaunatech.blogspot.com.br
+Blog Wordpress:   http://anagauna.wordpress.com
+Blog MulherTech:  http://mulhertech.blogspot.com
 
 Preferences:  Web Applications, Big Data, Data Analytics, Data Science,  Computer Science, 
               Microsoft Windows Server, Microsoft SQL Server, IT Projects Management, PMI, ITIL, 
