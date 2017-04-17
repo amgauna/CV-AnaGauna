@@ -17,8 +17,12 @@ mail:       amgauna@gmail.com
 Skype:      amgauna@hotmail.com
 Yahoo:      amgauna@geocities.com
 
+Gravatar:   http://pt.gravatar.com/amgauna
+About.Me:   https://about.me/anagauna
+
 github:     https://github.com/amgauna
 linkedin:   https://www.linkedin.com/in/amgauna/
+medium:     medium.com/@anagauna
 google+:    https://plus.google.com/+AnaGauna2109/posts
 Twitter:    @amgauna @AnaGaunaTech
 
