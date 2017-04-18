@@ -25,7 +25,9 @@ Linkedin:   https://www.linkedin.com/in/amgauna/
 Facebook:   https://www.facebook.com/amgauna
 Medium:     medium.com/@anagauna
 Google+:    https://plus.google.com/+AnaGauna2109/posts
-Twitter:    @amgauna @AnaGaunaTech
+TechNet:    https://social.technet.microsoft.com/profile/ana%20gauna/
+MSDN:       https://social.msdn.microsoft.com/profile/ana%20gauna/
+Twitter:    @amgauna @AnaGaunaTech
 
 WebSite:          http://www.amgauna.eti.br
 Blog Blogger:     http://anagaunatech.blogspot.com.br
