@@ -6,8 +6,8 @@ City:       Rio de Janeiro/RJ
 Country:    Brasil
 Zip/Cep:    22270-003
 
-CRA-RJ: 03-03161 (Registro Profissional de Tecnologo em Processamento de Dados)
-CNPJ: 29.052.589/0001-53 / Amgauna Consultoria Comércio e Serviços (MEI)
+CRA-RJ:  03-03161 (Registro Profissional de Tecnologo em Processamento de Dados)
+CNPJ:    29.052.589/0001-53 / Amgauna Consultoria Comércio e Serviços (MEI)
  
 Formation1:  Tecnologia em Processamento de Dados 
 University:  FACHA - Faculdades Helio Alonso, Rio de Janeiro/RJ, Brasil, concluido em 2003
@@ -27,6 +27,7 @@ Yahoo:      amgauna@geocities.com
 
 WebSite1:   http://www.amgauna.eti.br
 WebSite2:   http://www.anagauna.eti.br
+
 Blog Blogger:     http://anagaunatech.blogspot.com.br
 Blog Wordpress:   http://anagauna.wordpress.com
 Blog MulherTech:  http://mulhertech.blogspot.com
@@ -42,8 +43,8 @@ Facebook:   https://www.facebook.com/amgauna
 Medium:     medium.com/@anagauna
 Google+:    https://plus.google.com/u/0/+AnaGaunaTech/posts
 
-Microsoft TechNet: https://social.technet.microsoft.com/profile/ana%20gauna/
-Microsoft MSDN:    https://social.msdn.microsoft.com/profile/ana%20gauna/
+Microsoft TechNet:  https://social.technet.microsoft.com/profile/ana%20gauna/
+Microsoft MSDN:     https://social.msdn.microsoft.com/profile/ana%20gauna/
 
 
 Preferences:  Web Applications, Big Data, Data Analytics, Data Science,  Computer Science, 
