@@ -66,10 +66,15 @@ Google+:    +AnaGaunaTech    https://plus.google.com/u/0/+AnaGaunaTech/posts
 Sistema Operacional: Linux, Microsoft MS-DOS, Microsoft Windows95, Microsoft Windows98, Microsoft WindowsXP, 
                      Microsoft Windows7, Microsoft Windows8, Microsoft Windows10
                      
-Sistema Operacional Ethernet: Microsoft Windows Server NT4, Microsoft Windows Server 2000, Microsoft Windows Server 2003, 
-                              Microsoft Windows Server 2012 Essentials, Microsoft Windows Server 2016 Essentials.
+Sistema Operacional Ethernet: Microsoft Windows Server NT4, Microsoft Windows Server 2000, 
+                              Microsoft Windows Server 2003, Microsoft Windows Server 2012 Essentials, 
+                              Microsoft Windows Server 2016 Essentials.
+                              
+Data Base:  DBaseIII, Microsoft Access, Microsoft FoxPro, Microsoft SQL Server, Oracle MySQL, MariaDB, 
+            PostgreeSQL, etc 
 
-Languages:  HTML3, HTML4, HTML5, CSS3, JavaScript, Java, Microsoft Visual Basic, 
+Languages:  HTML3, HTML4, HTML5, CSS3, JavaScript, PHP 5.2, PHP 7, Bootstrap 3.3.7, Bootstrap 4,
+            C++ , Microsoft Visual Basic, Java, Delphi, etc
 
 Preferences:  Web Programmer (Web Developer/Front-End/Back-End), Big Data, Data Analytics, Data Science, 
               Computer Science, IoT, Microsoft Windows Server, Microsoft SQL Server, TCP/IP (IPv4/IPv6/DNS), 
