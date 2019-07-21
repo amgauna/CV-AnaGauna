@@ -8,12 +8,13 @@ Country:       Brazil
 ZipCode/Cep:   22270-003
 
 CRA-RJ:  03-03161 (Registro Profissional de Tecnologo em Processamento de Dados)
-CNPJ:    29.052.589/0001-53 / Amgauna Consultoria Comércio e Serviços (MEI)
+CNPJ:    29.052.589/0001-53 / Amgauna Tecnologia Comércio e Serviços 
 Inscrição Estadual:  MEI - Dispensado
 
 Microsoft Partner: Microsoft Cloud Solution Provider (CSP) - MPN: 5126593
-Microsoft TechNet:  Ana Gauna   https://social.technet.microsoft.com/profile/ana%20gauna/
-Microsoft MSDN:     Ana Gauna   https://social.msdn.microsoft.com/profile/ana%20gauna/
+Ana Gauna - Microsoft TechNet:       https://social.technet.microsoft.com/profile/ana%20gauna/
+Ana Gauna - Microsoft MSDN:          https://social.msdn.microsoft.com/profile/ana%20gauna/
+Ana Gauna - Microsoft Tech Profile:  https://techprofile.microsoft.com/pt-br/amgauna
  
 Formation1:  Tecnologia em Processamento de Dados 
 University:  FACHA - Faculdades Helio Alonso, Rio de Janeiro/RJ, Brazil (concluido em 2003)
@@ -37,10 +38,8 @@ WebSite1:   http://www.anagauna.eti.br
 Website2:   http://www.amgauna.com.br
 Website3:   http://www.mulhertech.com.br
 
-Blog Blogger:   Ana Gauna Tech Blog   http://anagaunatech.blogspot.com.br
+Blog Blogger:   Ana Gauna Tech Blog   http://anagaunatech.blogspot.com
 Blog Blogger:   MulherTech Blog       http://mulhertech.blogspot.com
-
-Gravatar:   http://pt.gravatar.com/anagauna27/
 
 About.Me:   https://about.me/anagauna/
 
