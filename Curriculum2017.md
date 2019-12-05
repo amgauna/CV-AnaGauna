@@ -8,7 +8,7 @@ Country:       Brazil
 ZipCode/Cep:   22270-003
 
 CRA-RJ:  03-03161 (Registro Profissional de Tecnologo em Processamento de Dados)
-CNPJ:    29.052.589/0001-53 / Amgauna Tecnologia Comércio e Serviços 
+CNPJ: 29.052.589/0001-53 / Amgauna Tecnologia Comércio e Serviços 
 Inscrição Estadual:  MEI - Dispensado
 
 Microsoft Partner: Microsoft Cloud Solution Provider (CSP) - MPN: 5126593
@@ -69,10 +69,10 @@ Sistema Operacional Ethernet: Microsoft Windows Server NT4, Microsoft Windows Se
                               Microsoft Windows Server 2003, Microsoft Windows Server 2012 Essentials, 
                               Microsoft Windows Server 2016 Essentials.
                               
-Data Base:  DBaseIII, Microsoft Access, Microsoft FoxPro, Microsoft SQL Server, Oracle MySQL, MariaDB, 
-            PostgreeSQL, etc 
+Database:  DBase-III, Microsoft Access, Microsoft FoxPro, Microsoft SQL Server, Oracle MySQL, MariaDB, 
+           PostgreeSQL, etc 
 
-Languages:  HTML3, HTML4, HTML5, CSS3, JavaScript, PHP 5.2, PHP 7, Bootstrap 3.3.7, Bootstrap 4,
+Languages:  HTML3, HTML4, HTML5, CSS3, JavaScript, PHP 5.2, PHP 7.4, Bootstrap 3.3.7, Bootstrap 4.1.3,
             C++ , Microsoft Visual Basic, Java, Delphi, etc
 
 Preferences:  Web Programmer (Web Developer/Front-End/Back-End), Big Data, Data Analytics, Data Science, 
